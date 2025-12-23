@@ -2,7 +2,8 @@
 
 🤖 Lang2SQL is an LLM-powered assistant that turns plain English into SQL queries — all through a friendly chat interface.
  Built with Streamlit, Gemini AI, and designed to make exploring and updating your data as easy as having a conversation.
- 
+
+ Link: https://nehansh-alwala-lang2sql.streamlit.app/
 
 🌟 What is Lang2SQL?
 
